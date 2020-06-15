@@ -1,2 +1,2 @@
 # Barbearia_alura
-Projeto de uma barbearia no curso de HTML e CSS
+Projeto simples de uma barbearia no curso de HTML5 e CSS3 do Alura
